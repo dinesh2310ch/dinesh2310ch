@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dinesh Choudhary</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh2310ch&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh2310ch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh2310ch" alt="dinesh2310ch" /></a> </p>
 
 - 🌱 I’m currently learning **Python , java**
 
