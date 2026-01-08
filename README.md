@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python , java**
 
-- 📫 How to reach me **beingacoder23@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
